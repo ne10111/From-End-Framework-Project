@@ -1,0 +1,27 @@
+$fontColor: #black;
+
+
+.article{
+	color: $fontColor;
+	font-family: Arial;
+    font-size: 20px;
+    margin-top:20;
+}
+
+
+h1{
+	color: $fontColor;
+	margin: 0;
+	padding: 0;
+}
+
+.images{
+	float: right;
+	margin: 20px;
+	padding: 20px;
+    margin-top: 0px;
+   
+
+}
+ 
+
